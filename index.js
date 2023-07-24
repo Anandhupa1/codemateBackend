@@ -19,7 +19,7 @@ const { bookingRouter } = require("./routes/booking.route");
 //   }));
 //+++++++++++++++++++++++
 app.use(cors({
-  origin: 'https://tutor-track.vercel.app',
+  origin: ['https://tutor-track.vercel.app','https://codemate-admindashboard.netlify.app'],
   methods: ['GET', 'POST', 'PUT', 'DELETE','PATCH', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization', 'authToken'], // Include 'authToken' in the list of allowed headers
 }));
