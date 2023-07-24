@@ -34,7 +34,7 @@ IndexRouter.get("/users",async(req,res)=>{
             else {res.status(404).json("please query upon [ 'student' or 'tutor' or 'admin' ] ")}
         }else { res.status(404).json("please query upon [ 'student' or 'tutor' or 'admin' ] ")}
        
-
+        
 
         //___________________________________________________
     
