@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "qjdplydhnjrp1tkjlurm",
-    "password": "pscale_pw_gvO3HcNbKNmMx2c1VshF5IlocLdIokESThxTlcqEwMZ",
-    "database": "codemate",
-    "host": "aws.connect.psdb.cloud",
+    "username": "uprdj6qzzn8calqj",
+    "password": "ijLcLCNyQyWb2R1YYf8R",
+    "database": "bgnclybfi1i86kb8wdrx",
+    "host": "bgnclybfi1i86kb8wdrx-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "qjdplydhnjrp1tkjlurm",
-    "password": "pscale_pw_gvO3HcNbKNmMx2c1VshF5IlocLdIokESThxTlcqEwMZ",
-    "database": "codemate",
-    "host":"aws.connect.psdb.cloud",
+    "username": "uprdj6qzzn8calqj",
+    "password": "ijLcLCNyQyWb2R1YYf8R",
+    "database": "bgnclybfi1i86kb8wdrx",
+    "host":"bgnclybfi1i86kb8wdrx-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "qjdplydhnjrp1tkjlurm",
-    "password": "pscale_pw_gvO3HcNbKNmMx2c1VshF5IlocLdIokESThxTlcqEwMZ",
-    "database": "codemate",
-    "host":"aws.connect.psdb.cloud",
+    "username": "uprdj6qzzn8calqj",
+    "password": "ijLcLCNyQyWb2R1YYf8R",
+    "database": "bgnclybfi1i86kb8wdrx",
+    "host":"bgnclybfi1i86kb8wdrx-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   }
 }
