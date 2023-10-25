@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "codemate",
-    "password": "codemate",
+    "username": "qjdplydhnjrp1tkjlurm",
+    "password": "pscale_pw_gvO3HcNbKNmMx2c1VshF5IlocLdIokESThxTlcqEwMZ",
     "database": "codemate",
-    "host": "codemate.cmuir7j66vqq.ap-south-1.rds.amazonaws.com",
+    "host": "aws.connect.psdb.cloud",
     "dialect": "mysql"
   },
   "test": {
-    "username": "codemate",
-    "password": "codemate",
+    "username": "qjdplydhnjrp1tkjlurm",
+    "password": "pscale_pw_gvO3HcNbKNmMx2c1VshF5IlocLdIokESThxTlcqEwMZ",
     "database": "codemate",
-    "host":"codemate.cmuir7j66vqq.ap-south-1.rds.amazonaws.com",
+    "host":"aws.connect.psdb.cloud",
     "dialect": "mysql"
   },
   "production": {
-    "username": "codemate",
-    "password": "codemate",
+    "username": "qjdplydhnjrp1tkjlurm",
+    "password": "pscale_pw_gvO3HcNbKNmMx2c1VshF5IlocLdIokESThxTlcqEwMZ",
     "database": "codemate",
-    "host":"codemate.cmuir7j66vqq.ap-south-1.rds.amazonaws.com",
+    "host":"aws.connect.psdb.cloud",
     "dialect": "mysql"
   }
 }
